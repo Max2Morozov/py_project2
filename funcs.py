@@ -1,5 +1,5 @@
-def plus_foo(int(a), int(b)):
+def plus_foo(a,b):
     return a+b
 
-def minus_foo(int(a), int(b)):
+def minus_foo(a,b):
     return a-b
